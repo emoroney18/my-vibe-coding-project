@@ -21,7 +21,7 @@ _Tick the scenario you built in Lab 1 (the same one you selected in the lab guid
 
 - **What I built:** A provider profile page for a marketplace that helps buyers trust a brand-new provider.
 - **Tool used:** Lovable
-- **Shareable link:** provider profile page for a marketplace that helps buyers trust a brand-new provider.
+- **Shareable link:** https://bookingsflatproject-v1.lovable.app
 
 ## Show & Swap read
 
