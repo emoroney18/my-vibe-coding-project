@@ -12,8 +12,8 @@ New providers get Id verified/checked and that there is a first booking protecti
 
 ## Where they got confused / pushed back
 
-the new provider profile was much bigger than the others, will all new providers be highlighted this way on top?
+the experimental evidence didn't allow you to filter by time period.
 
 ## What I'll change as a result
 
-Determine if the design needs to be reiterated and if filters need to be added.
+Make the experiment readout more interactive.
