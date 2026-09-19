@@ -8,26 +8,26 @@ _Each prompt is a reusable step. Chain them: the output of one becomes the input
 
 ## Prompt chain: [name your flow]
 
-### Step 1: [purpose]
+### Step 1: Expand, build new screens in a strict sequence
 ```
-[prompt text, with {{variables}} for the parts you swap]
+Search empty state: What happens if no cleaners match the search?
+Provider unavailable state: What happens if Maya has no availability for the selected date?
+Booking error state: What happens if the booking request fails?
+Provider detail/verification interaction: The trust panel shows the proof, but there could be a more detailed view explaining what each verification means.
+Back/edit booking state: The current flow moves forward cleanly, but there is no explicit edit/back experience before requesting the booking.
 ```
-**Expects in:** _____
-**Produces out:** _____
 
-### Step 2: [purpose]
+### Step 2: Behavior, hard-code the states
 ```
-[prompt text]
+Loading: What happens between selecting a provider and loading the profile?
+Empty: What happens when no providers or dates are available?
+Error: What happens if the booking request cannot be completed?
 ```
-**Expects in:** _____
-**Produces out:** _____
 
-### Step 3: [purpose]
+### Step 3: Refine, one surgical polish
 ```
-[prompt text]
+I would refine the trust panel on Maya's profile, because that is explicitly your experiment variable. Your README says the panel contains four verification proofs and that the control/treatment toggle is what makes the experiment testable.
 ```
-**Expects in:** _____
-**Produces out:** _____
 
 ## Reusable techniques learned
 
