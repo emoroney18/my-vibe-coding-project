@@ -31,11 +31,10 @@ I would refine the trust panel on Maya's profile, because that is explicitly you
 
 ## Reusable techniques learned
 
-- _____
-- _____
+- Using ChatGPT and keeping it in plan mode help to refine the prompt before waisting credits on Lovable.
 
 ## What broke (and the fix)
 
 _Where a single mega-prompt failed and chaining fixed it._
 
-_____
+Nothing broke on the first iteration, but I did refine the experiment evidence section to include a control vs trust panel and to be able to look at the date by date range. 
