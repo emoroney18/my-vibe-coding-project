@@ -4,16 +4,16 @@
 
 ## What I showed
 
-_____
+https://trust-boost-prototypev3build.lovable.app
 
 ## What my partner understood (in their words)
 
-_____
+New providers get Id verified/checked and that there is a first booking protection plan if something goes wrong with the service. There is more information on what an id verification ect on the profile page.
 
 ## Where they got confused / pushed back
 
-_____
+the new provider profile was much bigger than the others, will all new providers be highlighted this way on top?
 
 ## What I'll change as a result
 
-_____
+Determine if the design needs to be reiterated and if filters need to be added.
