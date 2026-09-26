@@ -18,7 +18,7 @@ _Observed behaviour: reach 1; core action 7; stall point Sign in page; explained
 
 | Change | Hypothesis | Result |
 |---|---|---|
-| _____ | _____ | _____ |
+| Fix the email confirmation so it clearly communicates success | If i replace it with an unmistakable success state that clearly tells the user their booking was completed | more users will sign up for bookings |
 
 ## Peer feedback
 
@@ -26,14 +26,14 @@ During the registration the email confirmation message looked like an error:
 
 ## The recommendation
 
-**Decision:** ☐ Go  ☐ Iterate  ☐ Kill
+**Decision:** ☐ Go  ☑ Iterate  ☐ Kill
 
 _The evidence that justifies the call:_
 
-_____
+The peer feedback indicates that the confirmation looked like an error.
 
 ## Final showcase
 
-- **Demo link:** _____
-- **The one-sentence story:** _____
-- **Where it landed on the Confidence Line (M2 → now):** _____
+- **Demo link:** https://trust-boost-prototypev3build.lovable.app/
+- **The one-sentence story:** usability/friction issue. The important thing is that the user should immediately understand:  "My booking worked."  rather than:  "Did something go wrong?"
+- **Where it landed on the Confidence Line (M2 → now):** Still iterating on activation
