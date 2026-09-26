@@ -2,13 +2,17 @@
 
 > Module 6 · Evals & Iteration. Read the analytics, run an iteration sprint, present with evidence.
 
-## What the analytics say
+## What the evidence says
 
-_The numbers from real usage. Put the metric that matters on screen._
+_What real usage showed: numbers if your tool has analytics, counted behaviour if it does not. Put the signal that matters on screen._
 
-- **Primary metric:** _____
-- **What moved:** _____
-- **What didn't:** _____
+- **Primary signal:** The sign in process needs to be clearer to increase bookings.
+- **What moved:** The process flow to get to a sign up/login message after trying to book
+- **What didn't:** Email confirmation looked like an error
+
+_Analytics snapshot: visitors 11; page views 49; views per visit 4.45; duration 2m 29s; bounce 21%._
+
+_Observed behaviour: reach 1; core action 7; stall point Sign in page; explained away NA; own first run The sign up/login in flow didnt provide confirmation that you successfully signed up._
 
 ## Iteration sprint
 
@@ -18,7 +22,7 @@ _The numbers from real usage. Put the metric that matters on screen._
 
 ## Peer feedback
 
-_____
+During the registration the email confirmation message looked like an error:
 
 ## The recommendation
 
